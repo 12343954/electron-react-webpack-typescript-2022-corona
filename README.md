@@ -66,7 +66,7 @@ To clone the ERWT boilerplate, you need to run following commands:
 Master version of ERWT contains project files in separate context for main and renderer process, uses custom window, custom titlebar & menus.
 
 ```bash
-git clone --recurse-submodules https://github.com/codesbiome/electron-react-webpack-typescript-2022
+git clone --recurse-submodules https://github.com/12343954/electron-react-webpack-typescript-2022-corona
 ```
 
 <div align="center">
