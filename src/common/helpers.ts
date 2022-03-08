@@ -1,0 +1,12 @@
+/**
+ * Checks if process NODE_ENV in 'development' mode
+ */
+export function inDev(): boolean {
+  return process.env.NODE_ENV == 'development';
+}
+
+declare global {
+  interface Window {
+    ME: any;
+  }
+}
